@@ -1,4 +1,4 @@
-module github.com/fatedier/golib
+module github.com/Joker2333/golib-0.2.0
 
 go 1.12
 
